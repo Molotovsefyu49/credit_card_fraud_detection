@@ -1,4 +1,3 @@
-Certainly! Here's a simplified README file for your Credit Card Fraud Detection project:
 
 # Credit Card Fraud Detection using Machine Learning
 
